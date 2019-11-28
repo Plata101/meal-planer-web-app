@@ -1,0 +1,30 @@
+<?php
+// all these classes are going to be needed in html_to_pdf2/index.php
+//superclass
+require("../classes/ingredientClasses/Foods.class.php");
+// ingredients
+require("../classes/ingredientClasses/Pasta.class.php");
+require("../classes/ingredientClasses/Lupine.class.php");
+require("../classes/ingredientClasses/Tomato.class.php");
+require("../classes/ingredientClasses/Onion.class.php");
+require("../classes/ingredientClasses/Quinoa.class.php");
+require("../classes/ingredientClasses/Almonds.class.php");
+require("../classes/ingredientClasses/Grain_flour.class.php");
+require("../classes/ingredientClasses/Lentils.class.php");
+require("../classes/ingredientClasses/Buckwheat.class.php");
+require("../classes/ingredientClasses/Tofu.class.php");
+require("../classes/ingredientClasses/Pumpkin.class.php");
+require("../classes/ingredientClasses/Cashew.class.php");
+require("../classes/ingredientClasses/Kidney.class.php");
+require("../classes/ingredientClasses/Banana.class.php");
+require("../classes/ingredientClasses/Walnut.class.php");
+require("../classes/ingredientClasses/LupinFlour.class.php");
+require("../classes/ingredientClasses/Hemp.class.php");
+require("../classes/ingredientClasses/Chia.class.php");
+require("../classes/ingredientClasses/Cocoa.class.php");
+require("../classes/ingredientClasses/WPotato.class.php");
+require("../classes/ingredientClasses/SPotato.class.php");
+require("../classes/ingredientClasses/CoconutMilk.class.php");
+require("../classes/ingredientClasses/Poppy.class.php");
+require("../classes/ingredientClasses/CoconutFlakes.class.php");
+?>
